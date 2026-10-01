@@ -110,6 +110,8 @@ pnpm dev            # http://localhost:3000
 
 Open the studio, press **Add key**, and paste your platform key as `id:secret`.
 
+Step-by-step macOS guide with troubleshooting: [docs/LOCAL_SETUP_MAC.md](docs/LOCAL_SETUP_MAC.md).
+
 ### Environment
 
 ```bash
